@@ -2,10 +2,8 @@
 
 
 def main():
-    employees = {"pam": 30, "jim": 28}
-
-    for name, age in employees.items():
-        print(f"{name.capitalize()} is {age} years old.")
+    name = "John"
+    print(name)
 
 
 if __name__ == "__main__":
