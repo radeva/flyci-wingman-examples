@@ -30,7 +30,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run example
-        run: python python/01.syntax-error.py
+        run: python python/03-name-error.py
 
       - name: Fix my build
         uses: fly-ci/wingman-action@v1
