@@ -6,6 +6,7 @@ def main():
 
     for name, age in employees.items():
         print(f"{name.capitalize()} is {age} years old.")
-        
+
+
 if __name__ == "__main__":
     main()
