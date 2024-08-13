@@ -1,7 +1,7 @@
 # main.py
 
 def main():
-    employees = {"pam": 30,
+    employees = {"pam" 30,
                 "jim": 28}
 
     for name, age in employees.items():
