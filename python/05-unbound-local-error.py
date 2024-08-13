@@ -2,8 +2,8 @@
 
 
 def main():
-    name = "John"
     print(name)
+    name = "John"
 
 
 if __name__ == "__main__":
